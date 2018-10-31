@@ -9,4 +9,5 @@ matlab main.m
 ```
   
 ## Example of result
-![haze]() 
+![](https://github.com/tygrer/F-LDCP/blob/master/image/150127172751-kuala-lumpur-haze-2013-super-169.jpg) 
+![](https://github.com/tygrer/F-LDCP/blob/master/result/_150127172751-kuala-lumpur-haze-2013-super-169.jpg)
